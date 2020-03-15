@@ -30,7 +30,7 @@ pip install -r requirements.txt
 - This project uses 2 different models to classify a bundle of lung x-ray images to 3 different categoris.<br/>
 - The following shows the prediction from both models:
 
-![ANN Model Prediction]() ![ANN Model Prediction]()
+![ANN Model Prediction](/data/ann_prediction.png|width=100)![CNN Model Prediction](/data/cnn_prediction.png|width=100)
 
 - The blue line is the actual stock price, and the red line is the prediction. <br/>
 - For more detail, please read the descriptions on top of each function, and run **main.py**. Make sure to run it from an ide that's able to show graphs. The output will show more deails, including accuracy, loss, and more graphs.<br/>
