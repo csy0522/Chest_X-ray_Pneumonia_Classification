@@ -32,9 +32,11 @@ pip install -r requirements.txt
 
 ![Prediction](/data/prediction.png)
 
-- The blue line is the actual stock price, and the red line is the prediction. <br/>
-- For more detail, please read the descriptions on top of each function, and run **main.py**. Make sure to run it from an ide that's able to show graphs. The output will show more deails, including accuracy, loss, and more graphs.<br/>
-- I also added a **ipynb** file for the main functionin in the **src** directory if you want to run it using [Jupyter Notebook](https://jupyter.org/)
+- The left side shows the prediction made by Artificial Neural Network (Model 1)<br/>
+- The right side shows the prediction made by Convolutional Neural Network (Model 2)<br/>
+- These two only shows the first part of predictions. The entire prediction is at the bottom of **main.ipynb**.<br/>
+- For more detail, please read the descriptions on top of each function, and go to **main.ipynb**. The Neural_Network class is designed to let the users customize their own model. Let me know if you can come up with a model that givse 100% accuracy!.<br/>
+- I also added a **py** file for the main functionin in the **src** directory if you want to run it using IDE
 
 ## Deployment
 
