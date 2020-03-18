@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 - The left side shows the prediction made by Artificial Neural Network (Model 1)<br/>
 - The right side shows the prediction made by Convolutional Neural Network (Model 2)<br/>
-- These two only shows the first part of predictions. The entire prediction is at the bottom of **main.ipynb**.<br/>
+- These two only show the first part of predictions. The entire prediction is at the bottom of **main.ipynb**.<br/>
 - For more detail, please read the descriptions on top of each function, and go to **main.ipynb**. The Neural_Network class is designed to let the users customize their own model. Let me know if you can come up with a model that givse 100% accuracy!.<br/>
 - I also added a **py** file for the main functionin in the **src** directory if you want to run it using IDE
 
