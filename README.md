@@ -11,7 +11,7 @@ Use any python IDE to open the project. I personally use Jupyter Notebook from A
 * [Anaconda](https://www.anaconda.com/distribution/) - The Data Science Platform for Python/R
 * [Jupyter Notebook](https://jupyter.org/) - An Open-source Web Application
 
-## Data
+### Data
 
 The data for this project is available on Kaggle which a huge community space for data scientists. Click the following link to download the dataset:
 * [X-ray Image Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?) - Kaggle X-ray Dataset
