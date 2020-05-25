@@ -7,9 +7,11 @@ This project classifies Lung X-ray images to three different categoris: <br/>
 
 ## Getting Started
 
-Use any python IDE to open the project. I personally use Jupyter Notebook from Anaconda.You can download both Anaconda or Jupyter Notebook from the following links:
+Use any python IDE to open the project. I personally use Jupyter Notebook from Anaconda, but a good alternative is Google Colab. You can download both Anaconda and Jupyter Notebook from the following links:
 * [Anaconda](https://www.anaconda.com/distribution/) - The Data Science Platform for Python/R
 * [Jupyter Notebook](https://jupyter.org/) - An Open-source Web Application
+For more about Google Colab, go to:
+* [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Free Jupyter notebook environment that runs entirely in the cloud.
 
 ### Data
 
