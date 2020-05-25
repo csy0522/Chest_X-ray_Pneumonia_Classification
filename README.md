@@ -16,7 +16,7 @@ For more about Google Colab, go to:
 ### Data
 
 The data for this project is available on Kaggle which a huge community space for data scientists. Click the following link to download the dataset:
-* [X-ray Image Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?) - Kaggle X-ray Dataset
+* [X-ray Image Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?) - Kaggle X-ray Dataset <br/>
 The data is also available on the **data** repository.
 
 ### Installation
